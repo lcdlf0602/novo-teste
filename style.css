@@ -1,0 +1,22 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    height: 130px;
+
+}
+li{
+    display: inline;
+    color: white;
+}
+
+ul a{
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 50px;
+
+}
+
+.itens{
+    margin: 30px 0px 0px 200px;
+}
